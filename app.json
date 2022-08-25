@@ -1,6 +1,6 @@
 {
-  "name": "Avi-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @Avishkarpatil",
+  "name": "Aveamt",
+  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. ",
   "keywords": [
       "telegram",
       "stream",
@@ -12,7 +12,7 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/avipatilpro/FileStreamBot/",
+  "repository": "https://github.com/appuseh123/FiBo123/",
   "success_url": "/",
   "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
   "website": "avipatilweb.ml",
